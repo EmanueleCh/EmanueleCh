@@ -12,7 +12,7 @@
 
 - 💻 I'm studying at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/)
 
-- 📫 How to reach me **emanuele.chiarini@studbocconi.it**
+- 📫 How to reach me: **emanuele.chiarini@studbocconi.it**
 
 
 
