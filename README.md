@@ -8,7 +8,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **Machine Learning, Statistics, Mathematics**
+- 🌱 I’m currently learning **Machine Learning, Statistics and Quantitative Finance**
 
 - 💻 I'm studying at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/)
 
