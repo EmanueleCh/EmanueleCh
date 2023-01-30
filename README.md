@@ -16,11 +16,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EmanueleCh&show_icons=true&locale=en&layout=compact" alt="EmanueleCh" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EmanueleCh&show_icons=true&locale=en" alt="EmanueleCh" /></p>
-
 
 
 
